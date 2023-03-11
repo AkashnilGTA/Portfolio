@@ -6,4 +6,10 @@ Check the example: https://portfolio-akashnil.netlify.app/
 1. Replace the website title with your own name's title.
 2. Also replace the description which shows in embeds of Discord.
 3. Replace anything as you like.
+# Quick Links
+Netlify: https://netlify.com
+
+Replit: https://replit.com/@Akashnil
+
+Visual Studio Code (VSC): https://code.visualstudio.com
 # Thank You!
